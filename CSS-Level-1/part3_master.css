@@ -1,0 +1,27 @@
+.firstDiv {
+    color: red;
+}
+
+#singledId {
+    color: green;
+    text-decoration: line-through;
+}
+
+
+/* * {
+    color: blue;
+} */
+
+h3+ul {
+    border: 4px dotted green;
+}
+
+li a {
+    color: magenta;
+}
+
+
+/* 
+li a[href=""]{
+
+} */
